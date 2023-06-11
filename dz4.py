@@ -7,5 +7,6 @@ elif a == '-':
     print(b - c)
 elif a == '*':
     print(b * c)
-elif a == '/':
+else:
+    a == '/'
     print(b / c)
